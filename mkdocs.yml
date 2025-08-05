@@ -2,7 +2,7 @@ site_name: InfoSec Notes
 site_description: Zain Chand Notes
 site_url: 
 
-repo_url: https://github.com/pakcyberbot/OSCP-Notes-and-Environment
+repo_url: https://github.com/realzainchand/Personal-InfoSec-Notes
 
 theme:
   name: material
@@ -70,3 +70,4 @@ markdown_extensions:
 plugins:
 
   - search
+
