@@ -10,7 +10,8 @@ But in the long run? **Consistency beats speed.**
 
 It's like racing someone who sprints fast for 10 seconds then gives up, while you just jog slowly and never stop.
 
-\![\[Pasted image 20250805105708.png\]\]
+<img width="575" height="419" alt="image" src="https://github.com/user-attachments/assets/ae6dbf80-0cd7-48cb-ab19-c5a1c9470b3b" />
+
 
 ------------------------------------------------------------------------
 
@@ -175,3 +176,4 @@ That's the real hack.
 ## Tags
 
 \#💡mindset \#grit \#learning \#growth \#talent-vs-practice \#self-discipline \#linux-learning \#consistency \#zettelkasten \#self-notes
+
