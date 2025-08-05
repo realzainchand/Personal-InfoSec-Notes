@@ -1,6 +1,6 @@
-site_name: OSCP Quick Reference
-site_description: PakCyberbot's OSCP Notes and Environment
-site_url: https://pakcyberbot.com/OSCP-Notes-and-Environment
+site_name: InfoSec Notes
+site_description: Zain Chand Notes
+site_url: 
 
 repo_url: https://github.com/pakcyberbot/OSCP-Notes-and-Environment
 
@@ -68,4 +68,5 @@ markdown_extensions:
       alternate_style: true
 
 plugins:
+
   - search
