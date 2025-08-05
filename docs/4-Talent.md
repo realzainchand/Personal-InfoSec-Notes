@@ -49,7 +49,7 @@ Theory never beats muscle memory.
 
 ## CR7 trained when no one was watching
 
-\![\[Pasted image 20250805102027.png\]\]
+<img width="547" height="527" alt="image" src="https://github.com/user-attachments/assets/aca5868c-fd20-46f5-ba00-0b9c99d3e9b8" />
 
 People say Cristiano is gifted. 
 
@@ -72,8 +72,8 @@ And it worked.
 ------------------------------------------------------------------------
 
 ## 11-year-old kids who code
+<img width="524" height="509" alt="image" src="https://github.com/user-attachments/assets/b4a79c81-c997-4285-bbda-70bf01dc1fd6" />
 
-\![\[Pasted image 20250805110657.png\]\]
 
 There are kids who start young, like that 11-year-old who builds games or runs a YouTube channel. 
 
@@ -83,23 +83,6 @@ They didn't get there overnight. 
 
 It's just that we didn't **see** their early boring phase.
 
-------------------------------------------------------------------------
-
-## Nikola Tesla
-
-\![\[Pasted image 20250805110715.png\]\]
-
-They call him a genius. 
-
-But people forget. He **worked** insane hours. He obsessed over ideas, tested things again and again. 
-
-He wasn't partying. 
-
-He was alone, in labs, failing, retrying.
-
-Genius doesn't mean an easy life. 
-
-It means obsession, sacrifice, patience.
 
 ------------------------------------------------------------------------
 
@@ -173,7 +156,5 @@ That's the real hack.
 
 ------------------------------------------------------------------------
 
-## Tags
 
-\#💡mindset \#grit \#learning \#growth \#talent-vs-practice \#self-discipline \#linux-learning \#consistency \#zettelkasten \#self-notes
 
